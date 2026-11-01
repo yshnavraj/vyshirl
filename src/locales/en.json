@@ -1,0 +1,91 @@
+{
+  "photography": "PHOTOGRAPHY",
+  "navigation": "Main navigation",
+  "work": "Selected work",
+  "perspective": "Perspective",
+  "instagram": "Instagram",
+  "journal": "A VISUAL JOURNAL / @VYSHIRL",
+  "headline1": "Could be",
+  "headline2": "anything.",
+  "intro1": "Small encounters. Open skies.",
+  "intro2": "A different way of seeing the everyday.",
+  "explore": "Explore the photographs",
+  "selected": "Selected work",
+  "tagline": "Nature, light & everything in between",
+  "filter": "Filter photographs",
+  "all": "All photographs",
+  "nature": "Nature",
+  "skies": "Skies",
+  "aboutLabel": "THE PERSPECTIVE",
+  "about1": "There’s a photograph",
+  "about2": "in the ordinary.",
+  "description1": "A collection of moments from the world around me — the quiet of a reflection, a passing silhouette, the sky changing its mind.",
+  "description2": "This is my space to share what catches my eye. Explore the photographs here, or follow the visual journal on Instagram.",
+  "more": "See more on Instagram",
+  "credit": "Photographs by @vyshirl",
+  "connect": "Let’s connect",
+  "language": "Language",
+  "viewer": "Photograph viewer",
+  "close": "Close photograph",
+  "previous": "Previous photograph",
+  "next": "Next photograph",
+  "original": "View original on Instagram",
+  "open": "Open {{title}}",
+  "pageTitle": "VYSHIRL — Photography",
+  "pageDescription": "Photography by vyshirl. A visual journal of nature, light, and everyday moments.",
+  "categories": {
+    "All": "All photographs",
+    "Nature": "Nature",
+    "Skies": "Skies"
+  },
+  "photos": {
+    "31556f7c7532983e": {
+      "title": "A little encounter",
+      "alt": "Squirrel perched on a stone ledge"
+    },
+    "c5d05021766815b4": {
+      "title": "Still / reflected",
+      "alt": "Trees reflected in still water beneath a blue sky"
+    },
+    "521acf6ae2d82b60": {
+      "title": "A passing silhouette",
+      "alt": "Airplane silhouetted against an orange sunset"
+    },
+    "5af7ded984e7593e": {
+      "title": "Last light",
+      "alt": "Evening light and dark silhouettes"
+    },
+    "309491103f623a8c": {
+      "title": "The sky unfolds",
+      "alt": "Dramatic clouds filling the sky"
+    },
+    "812a5dbdc36b2011": {
+      "title": "Blue, in layers",
+      "alt": "Layers of clouds in a blue sky"
+    },
+    "268381cad50c7654": {
+      "title": "Open air",
+      "alt": "Sky study from the visual journal"
+    },
+    "941778cfa66b8780": {
+      "title": "Between moments",
+      "alt": "Nature photograph from the visual journal"
+    },
+    "81b2d82b34ed67c5": {
+      "title": "A quieter view",
+      "alt": "An everyday scene observed through the lens"
+    },
+    "b8b03b54272703a3": {
+      "title": "Light study",
+      "alt": "Light and atmosphere from the visual journal"
+    },
+    "0258652da312e442": {
+      "title": "Found along the way",
+      "alt": "An observed moment from the visual journal"
+    },
+    "0b65f0a0b6ee4234": {
+      "title": "Pause / observe",
+      "alt": "A photograph from the visual journal"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "photography": "FOTOGRAFÍA",
+  "navigation": "Navegación principal",
+  "work": "Obras seleccionadas",
+  "perspective": "Perspectiva",
+  "instagram": "Instagram",
+  "journal": "UN DIARIO VISUAL / @VYSHIRL",
+  "headline1": "Podría ser",
+  "headline2": "cualquier cosa.",
+  "intro1": "Pequeños encuentros. Cielos abiertos.",
+  "intro2": "Otra forma de ver lo cotidiano.",
+  "explore": "Explora las fotografías",
+  "selected": "Obras seleccionadas",
+  "tagline": "Naturaleza, luz y todo lo que hay entre ambas",
+  "filter": "Filtrar fotografías",
+  "all": "Todas las fotografías",
+  "nature": "Naturaleza",
+  "skies": "Cielos",
+  "aboutLabel": "LA PERSPECTIVA",
+  "about1": "Hay una fotografía",
+  "about2": "en lo cotidiano.",
+  "description1": "Una colección de momentos del mundo que me rodea: la calma de un reflejo, una silueta que pasa, el cielo que cambia de parecer.",
+  "description2": "Este es mi espacio para compartir lo que me llama la atención. Explora las fotografías aquí o sigue el diario visual en Instagram.",
+  "more": "Ver más en Instagram",
+  "credit": "Fotografías de @vyshirl",
+  "connect": "Conectemos",
+  "language": "Idioma",
+  "viewer": "Visor de fotografías",
+  "close": "Cerrar fotografía",
+  "previous": "Fotografía anterior",
+  "next": "Fotografía siguiente",
+  "original": "Ver original en Instagram",
+  "open": "Abrir {{title}}",
+  "pageTitle": "VYSHIRL — Fotografía",
+  "pageDescription": "Fotografía de vyshirl. Un diario visual de naturaleza, luz y momentos cotidianos.",
+  "categories": {
+    "All": "Todas las fotografías",
+    "Nature": "Naturaleza",
+    "Skies": "Cielos"
+  },
+  "photos": {
+    "31556f7c7532983e": {
+      "title": "Un pequeño encuentro",
+      "alt": "Ardilla sobre un saliente de piedra"
+    },
+    "c5d05021766815b4": {
+      "title": "Quietud / reflejo",
+      "alt": "Árboles reflejados en aguas tranquilas bajo un cielo azul"
+    },
+    "521acf6ae2d82b60": {
+      "title": "Una silueta de paso",
+      "alt": "Avión a contraluz sobre un atardecer naranja"
+    },
+    "5af7ded984e7593e": {
+      "title": "La última luz",
+      "alt": "Luz del atardecer y siluetas oscuras"
+    },
+    "309491103f623a8c": {
+      "title": "El cielo se despliega",
+      "alt": "Nubes espectaculares que llenan el cielo"
+    },
+    "812a5dbdc36b2011": {
+      "title": "Azul en capas",
+      "alt": "Capas de nubes en un cielo azul"
+    },
+    "268381cad50c7654": {
+      "title": "Al aire libre",
+      "alt": "Estudio del cielo del diario visual"
+    },
+    "941778cfa66b8780": {
+      "title": "Entre momentos",
+      "alt": "Fotografía de naturaleza del diario visual"
+    },
+    "81b2d82b34ed67c5": {
+      "title": "Una vista más tranquila",
+      "alt": "Escena cotidiana observada a través del objetivo"
+    },
+    "b8b03b54272703a3": {
+      "title": "Estudio de luz",
+      "alt": "Luz y atmósfera del diario visual"
+    },
+    "0258652da312e442": {
+      "title": "Hallado en el camino",
+      "alt": "Un momento observado del diario visual"
+    },
+    "0b65f0a0b6ee4234": {
+      "title": "Pausa / observa",
+      "alt": "Una fotografía del diario visual"
+    }
+  }
+}
